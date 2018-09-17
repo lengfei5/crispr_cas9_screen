@@ -1,0 +1,1 @@
+Here is a preliminary analysis for CRISPR-Cas9 screening data analysis with mageck 
