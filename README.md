@@ -2,9 +2,9 @@
 
 ### Two processing pipelines which can quantify the read count table from raw data (before demultiplexing bam files)
 
-#####from Georg in IMBA
+##### from Georg in IMBA
 
-####from Jesse in Zuber group 
+#### from Jesse in Zuber group 
 some notes for this nf process pipeline:
 - library id should be unique (doulbe check)
 - library file: second column should be names 'group'
