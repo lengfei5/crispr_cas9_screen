@@ -2,7 +2,7 @@
 
 ### Two processing pipelines which can quantify the read count table from raw data (before demultiplexing bam files)
 
-##### from Georg in IMBA
+#### CRISPR-UMI from Georg in IMBA
 
 #### from Jesse in Zuber group 
 some notes for this nf process pipeline:
